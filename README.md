@@ -14,7 +14,9 @@ _This website will show that I am familiar with creating structure for a webpage
 * _Open project folder_
 * _Open index.html using the browser of your choice (Tested in Chrome)_
 
-# ADD GIT HUB PAGES LINK
+_OR_
+
+_You could just visit my hosted page at https://cgrahams.github.io/portfolio-project/index.html !_
 
 ## Known Bugs
 
