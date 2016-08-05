@@ -15,6 +15,10 @@
   text-align: center;
 }
 
+.nav-tabs {
+  margin-top: 10px;
+}
+
 /*#recovery-img {
   float: left;
   width: 10%;
