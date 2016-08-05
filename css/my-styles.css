@@ -1,26 +1,17 @@
+/* ------------------
+GLOBAL STYLES
+------------------ */
+.container {
+}
+
+.nav-tabs {
+  margin-top: 10px;
+}
+
 #profile-img,
 #family-img {
   display: block;
   margin: 20px auto;
-}
-
-#profile-img {
-  width: 20%;
-  border-radius: 100% / 95%;
-}
-
-#family-img {
-  width: 30%;
-  border-radius: 25px;
-}
-
-.page-header {
-  text-align: center;
-}
-
-.my-paragraph {
-  text-align: justify;
-  text-indent: 1em;
 }
 
 .my-page-name {
@@ -28,36 +19,73 @@
   margin-bottom: 20px;
 }
 
-.nav-tabs {
-  margin-top: 10px;
-}
-
-span {
-  width: 30%;
-}
-
-.my-paragraph img {
-  float: right;
-  margin: 0 0 1% 2%;
-  width: 40%;
-  border-radius: 10px;
-}
-
-#my-link-section h3{
+.page-header {
   text-align: center;
 }
 
-#my-link-body{
+.my-footer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+
+
+/* ------------------
+HOME PAGE STYLES
+-------------------*/
+
+#profile-img {
+  width: 20%;
+  border-radius: 100% / 95%;
+}
+
+#my-link-section {
   margin: 2% 20%;
   text-align: left;
+}
+
+#my-link-section h4{
+  padding-left: 16%;
+}
+
+#my-link-section p {
+  margin-bottom: 40px;
 }
 
 #my-link-body ol {
   margin: 2% 0;
 }
 
+
+
+/* ------------------
+ABOUT PAGE STYLES
+-------------------*/
+
+#family-img {
+  width: 30%;
+  border-radius: 25px;
+}
+
+.my-paragraph {
+  text-align: justify;
+  text-indent: 1em;
+}
+
+.my-paragraph img {
+  float: right;
+  max-width: 50%;
+  margin: 0 0 0 2%;
+  border-radius: 10px;
+}
+
+#hobby-list {
+  text-align: center;
+  padding-right: 6%;
+}
+
 .about-list {
-  padding: 0 40%;
+  text-align: left;
 }
 
 .about-list h3 {
@@ -66,14 +94,30 @@ span {
 
 .about-list ul {
   list-style: none;
+  padding-left: 30%;
+  max-width: 77%;
 }
 
-#hobby-list {
-  text-align: center;
-  padding-right: 20%
+.about-list ul > li {
+  padding: 2% 0 2% 0;
 }
 
-.my-footer {
-  margin-top: 20px;
-  text-align: center;
+#interest-categories > li: {
+    text-decoration: underline;
+}
+
+#interest-categories ul li li {
+  text-decoration: none;
+}
+
+
+
+/*-------------
+MEDIA QUERIES
+-------------*/
+
+@media screen and (max-width: 768px) {
+  .my-paragraph img {
+    display: none;
+  }
 }
