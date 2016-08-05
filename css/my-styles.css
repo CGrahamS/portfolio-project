@@ -32,9 +32,13 @@
   text-align: center;
 }
 
-#my-link-section p {
+#my-link-body{
   margin: 2% 20%;
-  text-align: justify;
+  text-align: left;
+}
+
+#my-link-body ol {
+  margin: 2% 38%;
 }
 
 .my-footer {
