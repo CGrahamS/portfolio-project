@@ -1,8 +1,17 @@
-#profile-img {
+#profile-img,
+#family-img {
   display: block;
   margin: 20px auto;
+}
+
+#profile-img {
   width: 20%;
   border-radius: 100% / 95%;
+}
+
+#family-img {
+  width: 30%;
+  border-radius: 25px;
 }
 
 .page-header {
@@ -28,9 +37,10 @@ span {
 }
 
 .my-paragraph img {
-  float: left;
-  margin: 0 2% 1% 0;
+  float: right;
+  margin: 0 0 1% 2%;
   width: 40%;
+  border-radius: 10px;
 }
 
 #my-link-section h3{
@@ -44,6 +54,16 @@ span {
 
 #my-link-body ol {
   margin: 2% 0;
+}
+
+.hobby-list,
+.interest-list {
+  text-align: center;
+}
+
+.hobby-list ul,
+.interest-list ul {
+  list-style: none;
 }
 
 .my-footer {
