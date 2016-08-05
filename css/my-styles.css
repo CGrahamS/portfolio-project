@@ -24,13 +24,13 @@
 }
 
 span {
-  float: left;
-  margin: 0 2% 0 0;
   width: 30%;
 }
 
-img {
-    width: 85%;
+.my-paragraph img {
+  float: left;
+  margin: 0 2% 1% 0;
+  width: 40%;
 }
 
 #my-link-section h3{
