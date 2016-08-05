@@ -1,8 +1,6 @@
 /* ------------------
 GLOBAL STYLES
 ------------------ */
-.container {
-}
 
 .nav-tabs {
   margin-top: 10px;
@@ -40,8 +38,9 @@ HOME PAGE STYLES
 }
 
 #my-link-section {
-  margin: 2% 20%;
+  margin: 2% 30%;
   text-align: left;
+  width: 40%;
 }
 
 #my-link-section h4{
