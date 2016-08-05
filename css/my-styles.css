@@ -1,0 +1,21 @@
+.container {
+
+}
+
+.page-header {
+  text-align: center;
+}
+
+.my-paragraph {
+  text-align: justify;
+  text-indent: 1em;
+}
+
+.my-page-name {
+  text-align: center;
+}
+
+/*#recovery-img {
+  float: left;
+  width: 10%;
+}*/
