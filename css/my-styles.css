@@ -23,10 +23,15 @@
   margin-top: 10px;
 }
 
-/*#recovery-img {
+span {
   float: left;
-  width: 10%;
-}*/
+  margin: 0 2% 0 0;
+  width: 30%;
+}
+
+img {
+    width: 85%;
+}
 
 #my-link-section h3{
   text-align: center;
@@ -38,7 +43,7 @@
 }
 
 #my-link-body ol {
-  margin: 2% 38%;
+  margin: 2% 0;
 }
 
 .my-footer {
