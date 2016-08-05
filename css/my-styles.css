@@ -16,6 +16,7 @@
 
 .my-page-name {
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .nav-tabs {
@@ -26,6 +27,15 @@
   float: left;
   width: 10%;
 }*/
+
+#my-link-section h3{
+  text-align: center;
+}
+
+#my-link-section p {
+  margin: 2% 20%;
+  text-align: justify;
+}
 
 .my-footer {
   margin-top: 20px;
