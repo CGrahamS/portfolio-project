@@ -18,10 +18,6 @@ _OR_
 
 _You could just visit my hosted page at https://cgrahams.github.io/portfolio-project/index.html !_
 
-## Known Bugs
-
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
 ## Support and contact details
 
 _You can reach me at cgrahamstevenson@gmail.com_
