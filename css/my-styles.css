@@ -56,14 +56,21 @@ span {
   margin: 2% 0;
 }
 
-.hobby-list,
-.interest-list {
+.about-list {
+  padding: 0 40%;
+}
+
+.about-list h3 {
   text-align: center;
 }
 
-.hobby-list ul,
-.interest-list ul {
+.about-list ul {
   list-style: none;
+}
+
+#hobby-list {
+  text-align: center;
+  padding-right: 20%
 }
 
 .my-footer {
