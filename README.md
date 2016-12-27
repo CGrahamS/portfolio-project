@@ -1,6 +1,6 @@
 # _Epicodus Week 1 Independent Project: Portfolio Website_
 
-#### _This project will exemplify the skills I learned in the past week using GIT, in HTML and CSS languages and implementing BootStrap,_ _8-5-2016_
+#### _A project that demonstrates what I learned in the past week using GIT, in HTML and CSS and implementing BootStrap._ _8-5-2016_
 
 #### By _**Caleb Stevenson**_
 
@@ -16,7 +16,7 @@ _This website will show that I am familiar with creating structure for a webpage
 
 _OR_
 
-_You could just visit my hosted page at https://cgrahams.github.io/portfolio-project/index.html !_
+_You can visit my hosted page at https://cgrahams.github.io/portfolio-project/index.html !_
 
 ## Support and contact details
 
